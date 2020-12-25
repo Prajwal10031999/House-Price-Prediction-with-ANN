@@ -12,7 +12,7 @@ Neural networks learn (or are trained) by processing examples, each of which con
 Such systems "learn" to perform tasks by considering examples, generally without being programmed with task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as "cat" or "no cat" and using the results to identify cats in other images. They do this without any prior knowledge of cats, for example, that they have fur, tails, whiskers, and cat-like faces. Instead, they automatically generate identifying characteristics from the examples that they process. <br />
 
 The output looks like : 
-![Screenshot](house1.png)
-![Screenshot](house2.png)
-![Screenshot](house3.png)
-![Screenshot](house4.png)
+![Screenshot](house1.PNG)
+![Screenshot](house2.PNG)
+![Screenshot](house3.PNG)
+![Screenshot](house4.PNG)
